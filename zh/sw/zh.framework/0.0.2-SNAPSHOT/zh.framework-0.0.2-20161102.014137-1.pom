@@ -109,7 +109,6 @@
 				<artifactId>maven-jar-plugin</artifactId>
 				<configuration>
 					<archive>
-
 						<manifest>
 							<addClasspath>true</addClasspath>
 						</manifest>
@@ -147,7 +146,6 @@
 						<include>**/*</include>
 					</includes>
 					<userName>Caspar12</userName>
-
 					<repositoryName>zh.framework</repositoryName>      <!-- github repo name -->
 					<repositoryOwner>Caspar12</repositoryOwner>    <!-- github username -->
 				</configuration>
